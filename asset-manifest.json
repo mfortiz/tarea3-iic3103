@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tarea3-iic3103/static/css/main.aad237c2.chunk.css",
+    "main.js": "/tarea3-iic3103/static/js/main.bea93eed.chunk.js",
+    "main.js.map": "/tarea3-iic3103/static/js/main.bea93eed.chunk.js.map",
+    "runtime-main.js": "/tarea3-iic3103/static/js/runtime-main.528b710c.js",
+    "runtime-main.js.map": "/tarea3-iic3103/static/js/runtime-main.528b710c.js.map",
+    "static/css/2.098bc035.chunk.css": "/tarea3-iic3103/static/css/2.098bc035.chunk.css",
+    "static/js/2.12d48fa9.chunk.js": "/tarea3-iic3103/static/js/2.12d48fa9.chunk.js",
+    "static/js/2.12d48fa9.chunk.js.map": "/tarea3-iic3103/static/js/2.12d48fa9.chunk.js.map",
+    "index.html": "/tarea3-iic3103/index.html",
+    "precache-manifest.775e7bbcf859a9fe9332df3adc4b909b.js": "/tarea3-iic3103/precache-manifest.775e7bbcf859a9fe9332df3adc4b909b.js",
+    "service-worker.js": "/tarea3-iic3103/service-worker.js",
+    "static/css/2.098bc035.chunk.css.map": "/tarea3-iic3103/static/css/2.098bc035.chunk.css.map",
+    "static/css/main.aad237c2.chunk.css.map": "/tarea3-iic3103/static/css/main.aad237c2.chunk.css.map",
+    "static/js/2.12d48fa9.chunk.js.LICENSE": "/tarea3-iic3103/static/js/2.12d48fa9.chunk.js.LICENSE",
+    "static/media/avion.svg": "/tarea3-iic3103/static/media/avion.4dc849bc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.528b710c.js",
+    "static/css/2.098bc035.chunk.css",
+    "static/js/2.12d48fa9.chunk.js",
+    "static/css/main.aad237c2.chunk.css",
+    "static/js/main.bea93eed.chunk.js"
+  ]
+}
