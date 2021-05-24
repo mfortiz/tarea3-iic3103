@@ -1,0 +1,97 @@
+
+
+.leaflet-container {
+  width: 100%;
+  height: 100vh;
+}
+
+.render-chat {
+  max-width: 400px;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0px 3px 24px -8px rgba(0, 0, 0, 0.75);
+}
+
+.chat {
+  max-width: 320px;
+  height: 100%;
+  min-height: 60vh;
+  max-height: 60vh;
+  overflow-x: inherit;
+  overflow-y: scroll;
+  border: 2px solid rgb(19, 95, 145);
+}
+
+.contenedorChat {
+  margin-left: 2%;
+  margin-right: 2%;
+  height: 600px;
+}
+
+.container {
+  margin: 1%;
+}
+
+.wrapper2 {
+  display: flex;
+  flex-flow: row;
+}
+
+.inputName {
+  margin: 0%;
+  border: 2px solid rgb(19, 95, 145);  
+}
+
+.formName {
+  margin: 8%;
+}
+
+.map {
+  width: 800px;
+  height: 600px;
+}
+
+.mensaje {
+  width: 320px;
+  height: 60px;
+  border: 2px solid rgb(19, 95, 145);
+
+}
+
+#idmapa {
+  height: 600px;
+  border-radius: 10;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 800px 500px;
+}
+
+.derecha {
+  text-align: left;
+  margin-left: 10%;
+}
+
+.vuelos {
+  display: flex;
+  flex-direction: column;
+  overflow-x: scroll;
+  overflow-y: scroll;
+  width: 270px;
+  height: 600px;
+  border: 2px solid rgb(19, 95, 145);
+  white-space: nowrap;
+  margin-top: 1%;
+}
+
+.vuelosInfo {
+  margin: 1%;
+  padding: 8%;
+  border: 1px solid rgb(19, 95, 145);
+}
+
+#ulId {
+  margin: 0;
+  padding: 0;
+}
